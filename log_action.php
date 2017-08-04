@@ -4,7 +4,7 @@
 session_start();
 
 #includes a database connection
-include 'conexion.php';
+include 'inc/conexion.php';
 
 #catches user/password submitted by html form
 $usuario = $_POST['user'];

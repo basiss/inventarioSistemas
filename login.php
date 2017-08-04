@@ -7,7 +7,7 @@
 <meta name="description" content="PROCESOS AUTOMATICOA">
 <meta name="keywords" content="WEB, PROCESOS, AUTOMATICOS">
 <title>Inventario de Sistemas</title>
-<link rel="stylesheet" href="estilos.css">
+<link rel="stylesheet" href="style/estilos.css">
 </head>
 
 

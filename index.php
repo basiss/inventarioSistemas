@@ -33,7 +33,7 @@ if(is_null($_SESSION['user']))
 <meta name="description" content="InventarioSistemas">
 <meta name="keywords" content="WEB, Inventario, Sistemas">
 <title>Inventario de sistemas</title>
-<link rel="stylesheet" href="estilos.css">
+<link rel="stylesheet" href="style/estilos.css">
 </head>
 
 
